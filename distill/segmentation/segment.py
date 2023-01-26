@@ -19,7 +19,6 @@
 import datetime
 from enum import Enum
 import csv
-from distill.segmentation.segments import Segments
 import copy
 
 class Segment_Type(Enum):
@@ -246,7 +245,7 @@ def create_segment(target_dict, segment_names, start_end_vals):
     :param segment_names: A list of segment_names ordered in the same way as the start_end_vals
     :param start_end_vals: A list of tuples (i.e [(start_time, end_time)], where start_time and end_time are Date/Time Objects or integers
 
-    :return: A Segments object containing newly created Segment objects.
+    :return: A list of newly created Segment objects.
     """
 
     segments = []
@@ -270,7 +269,7 @@ def create_segment(target_dict, segment_names, start_end_vals):
         segment.generate_field_name = None
         segment.generate_matched_values = None
         segments.append(segment)
-    return Segments(segments)
+    return segments
 
 def write_segment(target_dict, segment_names, start_end_vals):
     """
@@ -308,7 +307,7 @@ def generate_segments(target_dict, field_name, field_values, start_time_limit, e
     :param end_time_limit: Amount of time (in seconds) to keep the segment window open after a detected event.
     :param label: An optional string argument that provides a prefix for the returned dictionary keys.
                 
-    :return: A Segments object containing newly created Segment objects.
+    :return: A list of newly created Segment objects.
     """
 
     # Iterate through the target dictionary using key list
@@ -361,7 +360,7 @@ def detect_deadspace(target_dict, deadspace_limit, start_time_limit, end_time_li
     :param end_time_limit: Amount of time (in seconds) to keep the segment window open after a detected deadspace event.
     :param label: An optional string argument that provides a prefix for the returned dictionary keys.
 
-    :return: A Segments object containing newly created Segment objects.
+    :return: A list of newly created Segment objects.
     """
 
     # Iterate through the target dictionary using key list
@@ -416,7 +415,7 @@ def generate_fixed_time_segments(target_dict, time, trim=False, label=""):
     :param trim: An optional boolean indicating whether the logs that don't fit into the fixed windows should be trimmed.
     :param label: An optional string argument that provides a prefix for the returned dictionary keys.
 
-    :return: A Segments object containing newly created Segment objects.
+    :return: A list of newly created Segment objects.
     """
     key_list = list(target_dict.keys())
 
@@ -488,6 +487,8 @@ def generate_collapsing_window_segments(target_dict, field_name, field_values_of
     :param field_name: A string indicating the field name meant to be matched by the field values.
     :param field_values_of_interest: A list of field values to be matched in order to start/end a segment.
     :param label: An optional string argument that provides a prefix for the returned dictionary keys.
+
+    :return: A list of newly created Segment objects.
     """
     key_list = list(target_dict.keys())
 
@@ -542,7 +543,7 @@ def export_segments(path, segments):
     Writes segment metadata into a csv file.  Csv will be saved at the indicated path.
 
     :param path: Represents the path of the new file.
-    :param segments: A Segments object containing Segment objects.
+    :param segments: A list of Segment objects.
     """
 
     file = open(path, 'w')

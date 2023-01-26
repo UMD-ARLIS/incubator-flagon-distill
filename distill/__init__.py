@@ -31,10 +31,6 @@ from distill.segmentation.segment import (
     export_segments,
 )
 
-from distill.segmentation.segments import (
-    Segments,
-)
-
 from distill.segmentation.segmentation_error import (
     SegmentationError,
 )
@@ -67,7 +63,6 @@ from distill.process.transform import (
 __all__ = [
     "Segment",
     "Segment_Type",
-    "Segments",
     "SegmentationError",
     "graph",
     "sankey",
