@@ -29,7 +29,7 @@ def createDiGraph(nodes, edges, *, drop_recursions: bool=False, node_labels=Fals
     :return: A NetworkX graph object
     """
 
-    # Replace node names with the give node_labels if it is given as an argument
+    # Replace node names with the node_labels if it is given as an argument
     if node_labels:
         nodes = [node if node not in node_labels else node_labels[node] for node in nodes]
         for i in range(len(edges)):
@@ -44,7 +44,7 @@ def createDiGraph(nodes, edges, *, drop_recursions: bool=False, node_labels=Fals
     graph.add_nodes_from(nodes)
     return graph
 
-def sankey(edges, node_labels=False):
+def sankey(edges, node_labels=False, *, drop_recursions=False):
     """
     Creates Sankey Graph from defined edge list and optional user-provided labels
     :param edges_segmentN: List of Tuples
@@ -53,11 +53,11 @@ def sankey(edges, node_labels=False):
     """
 
     # Convert raw edges to a weighted digraph
-    graph = createDiGraph(list(), edges, node_labels=node_labels)
+    graph = createDiGraph(list(), edges, node_labels=node_labels, drop_recursions=drop_recursions)
     nodes = list(graph.nodes())
     edges = graph.edges(data=True)
     
-    # Format weighted edge data for plotly Sankey function
+    # Format weighted edge data for the sankey function
     sources = [nodes.index(edge[0]) for edge in edges]
     targets = [nodes.index(edge[1]) for edge in edges]
     values = [edge[2]['capacity'] for edge in edges]
@@ -66,7 +66,7 @@ def sankey(edges, node_labels=False):
         node=dict(label=nodes),
         link=dict(source=sources, target=targets, value=values))])
 
-def funnel(edges, targets, node_labels=False, infer=True):
+def funnel(edges, targets, node_labels=False, *, infer=True):
     """
     Creates Funnel Graph from defined edge list and optional user-provided labels
     :param edges: List of Tuples
@@ -85,7 +85,7 @@ def funnel(edges, targets, node_labels=False, infer=True):
         
     target_edges = list()
     if infer:
-        # Find a path through each provided target that maximizes flow
+        # Find the path through each provided target that maximizes flow
         for i in range(len(targets) - 1):
             path = max([path for path in nx.all_simple_paths(graph, targets[i], targets[i+1])],
                     key=lambda path: nx.path_weight(graph, path, "capacity"))
@@ -100,7 +100,7 @@ def funnel(edges, targets, node_labels=False, infer=True):
         targets.extend(path)
     else:
         # Otherwise construct a path literally
-        target_edges = distill.pairwiseSeq(targets)
+        target_edges = nx.utils.pairwise(targets)
 
     # Get the total outflow of the starting node
     counts = sum([graph.get_edge_data(*edge)['capacity'] for edge in graph.out_edges(target_edges[0][0])])
