@@ -1,0 +1,2659 @@
+[
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content.overlay-sidebar",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88959/-77.03015",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063969835,
+		"microTime": 0.4,
+		"location": {
+			"x": 838,
+			"y": 467
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88959/-77.03015",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063969895,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.88959",
+			"longitude": "-77.03015"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063969276,
+		"microTime": 0.7,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/#map=18/38.88959/-77.03015",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content.overlay-sidebar",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88950/-77.03165",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063971419,
+		"microTime": 0.1,
+		"location": {
+			"x": 799,
+			"y": 602
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88950/-77.03165",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063971476,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.88950",
+			"longitude": "-77.03165"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063970858,
+		"microTime": 0.6,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/#map=18/38.88950/-77.03165",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "span.icon query",
+		"path": [
+			"span.icon query",
+			"a.control-button control-button-first control-button-last",
+			"div.control-query leaflet-control",
+			"div.leaflet-top leaflet-right",
+			"div.leaflet-control-container",
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content.overlay-sidebar",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88950/-77.03165",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063972906,
+		"microTime": 0.1,
+		"location": {
+			"x": 1899,
+			"y": 392
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+			"div#content.overlay-sidebar",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88950/-77.03165",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063974362,
+		"microTime": 0.8,
+		"location": {
+			"x": 294,
+			"y": 583
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063973799,
+		"microTime": 0.6,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.88945&lon=-77.03522#map=18/38.88950/-77.02977",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063973800,
+		"microTime": 0,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.88945&lon=-77.03522#map=18/38.88950/-77.02977",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.88945&lon=-77.03522#map=18/38.88950/-77.03071",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063974426,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.88950",
+			"longitude": "-77.03071"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063973805,
+		"microTime": 0.4,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.88945&lon=-77.03522#map=18/38.88950/-77.03071",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "a",
+		"path": [
+			"a",
+			"li.query-result list-group-item selected",
+			"ul.query-results-list list-group list-group-flush",
+			"div.mx-n3",
+			"div#query-isin.query-results",
+			"div#sidebar_content",
+			"div#sidebar",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.88945&lon=-77.03522#map=18/38.88950/-77.03071",
+		"pageTitle": "Query Features | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063976953,
+		"microTime": 0.2,
+		"location": {
+			"x": 228,
+			"y": 685
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063976390,
+		"microTime": 0.1,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Query Features | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/6063188",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/6063188",
+		"pageTitle": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063977162,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"class": "Way",
+			"id": "6063188",
+			"name": "Washington Memorial Driveway Southwest",
+			"tags": {
+				"foot": "yes",
+				"highway": "footway",
+				"name": "Washington Memorial Driveway Southwest",
+				"source:datetime": "2014-08-18T19:07:27.000Z"
+			}
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "visit"
+	},
+	{
+		"target": "span.icon zoomout",
+		"path": [
+			"span.icon zoomout",
+			"a.control-button zoomout",
+			"div.zoom leaflet-control",
+			"div.leaflet-top leaflet-right",
+			"div.leaflet-control-container",
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/6063188",
+		"pageTitle": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063979876,
+		"microTime": 0.1,
+		"location": {
+			"x": 1899,
+			"y": 126
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063979603,
+		"microTime": 0.7,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/6063188#map=18/38.88947/-77.03525",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/6063188#map=18/38.89102/-77.03259",
+		"pageTitle": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063983075,
+		"microTime": 0.9,
+		"location": {
+			"x": 1162,
+			"y": 785
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/6063188#map=18/38.89102/-77.03259",
+		"pageTitle": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063983130,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.89102",
+			"longitude": "-77.03259"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063982509,
+		"microTime": 0.4,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/6063188#map=18/38.89102/-77.03259",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "span.icon query",
+		"path": [
+			"span.icon query",
+			"a.control-button control-button-first control-button-last",
+			"div.control-query leaflet-control",
+			"div.leaflet-top leaflet-right",
+			"div.leaflet-control-container",
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/6063188#map=18/38.89102/-77.03259",
+		"pageTitle": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063984573,
+		"microTime": 0.4,
+		"location": {
+			"x": 1894,
+			"y": 402
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/6063188#map=18/38.89102/-77.03259",
+		"pageTitle": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063985548,
+		"microTime": 0,
+		"location": {
+			"x": 1104,
+			"y": 531
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063984987,
+		"microTime": 0.6,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪Washington Memorial Driveway Southwest‬ (‪6063188‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.89120&lon=-77.03276",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "a",
+		"path": [
+			"a",
+			"li.query-result list-group-item selected",
+			"ul.query-results-list list-group list-group-flush",
+			"div.mx-n3",
+			"div#query-isin.query-results",
+			"div#sidebar_content",
+			"div#sidebar",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.89120&lon=-77.03276",
+		"pageTitle": "Query Features | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063988048,
+		"microTime": 0.6,
+		"location": {
+			"x": 162,
+			"y": 402
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063987487,
+		"microTime": 0.3,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Query Features | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/219168369",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063988169,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"class": "Way",
+			"id": "219168369",
+			"name": "National Museum of African American History and Culture",
+			"tags": {
+				"construction": "building",
+				"landuse": "construction",
+				"name": "National Museum of African American History and Culture",
+				"name:de": "Nationalmuseum für Afrikanisch-Amerikanische Geschichte und Kultur",
+				"name:es": "Museo Nacional de Historia y Cultura Afroamericana",
+				"short_name": "NMAAHC",
+				"source:datetime": "2014-12-28T20:55:58.000Z",
+				"website": "http://nmaahc.si.edu/",
+				"wikipedia": "en:National Museum of African American History and Culture"
+			}
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "visit"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88915/-77.03189",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063990885,
+		"microTime": 0.7,
+		"location": {
+			"x": 1035,
+			"y": 473
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88915/-77.03189",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063990946,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.88915",
+			"longitude": "-77.03189"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063990327,
+		"microTime": 0.9,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88915/-77.03189",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88756/-77.03167",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063992626,
+		"microTime": 0.6,
+		"location": {
+			"x": 952,
+			"y": 456
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88756/-77.03167",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063992684,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.88756",
+			"longitude": "-77.03167"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063992066,
+		"microTime": 0.5,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88756/-77.03167",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "span.icon query",
+		"path": [
+			"span.icon query",
+			"a.control-button control-button-first control-button-last",
+			"div.control-query leaflet-control",
+			"div.leaflet-top leaflet-right",
+			"div.leaflet-control-container",
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88756/-77.03167",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063994339,
+		"microTime": 0.7,
+		"location": {
+			"x": 1896,
+			"y": 393
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88756/-77.03167",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063995452,
+		"microTime": 0.2,
+		"location": {
+			"x": 939,
+			"y": 813
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063994895,
+		"microTime": 0.1,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.88655&lon=-77.03273",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "a",
+		"path": [
+			"a",
+			"li.query-result list-group-item selected",
+			"ul.query-results-list list-group list-group-flush",
+			"div.mx-n3",
+			"div#query-isin.query-results",
+			"div#sidebar_content",
+			"div#sidebar",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.88655&lon=-77.03273",
+		"pageTitle": "Query Features | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063998351,
+		"microTime": 0,
+		"location": {
+			"x": 218,
+			"y": 382
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688063997793,
+		"microTime": 0.5,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Query Features | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/66418706",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418706",
+		"pageTitle": "Way: ‪Holocaust Memorial Museum‬ (‪66418706‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688063998514,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"class": "Way",
+			"id": "66418706",
+			"name": "Holocaust Memorial Museum",
+			"tags": {
+				"addr:housenumber": "100",
+				"addr:street": "Raoul Wallenberg Place SW",
+				"building": "yes",
+				"dataset": "buildings",
+				"dcgis:captureyear": "20050405",
+				"dcgis:lot": "0802",
+				"dcgis:square": "0231",
+				"name": "Holocaust Memorial Museum",
+				"name:de": "Holocaust-Gedenkmuseum",
+				"official_name": "United States Holocaust Memorial Museum",
+				"official_name:de": "Holocaust-Gedenkmuseum der Vereinigten Staaten",
+				"short_name": "USHMM",
+				"source": "dcgis",
+				"source:datetime": "2014-11-04T23:40:27.000Z",
+				"tourism": "museum"
+			}
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "visit"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418706#map=18/38.89006/-77.02745",
+		"pageTitle": "Way: ‪Holocaust Memorial Museum‬ (‪66418706‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064002058,
+		"microTime": 0.2,
+		"location": {
+			"x": 809,
+			"y": 834
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418706#map=18/38.89006/-77.02745",
+		"pageTitle": "Way: ‪Holocaust Memorial Museum‬ (‪66418706‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064002115,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.89006",
+			"longitude": "-77.02745"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064001495,
+		"microTime": 0.7,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪Holocaust Memorial Museum‬ (‪66418706‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/66418706#map=18/38.89006/-77.02745",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "span.icon query",
+		"path": [
+			"span.icon query",
+			"a.control-button control-button-first control-button-last",
+			"div.control-query leaflet-control",
+			"div.leaflet-top leaflet-right",
+			"div.leaflet-control-container",
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418706#map=18/38.89006/-77.02745",
+		"pageTitle": "Way: ‪Holocaust Memorial Museum‬ (‪66418706‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064003644,
+		"microTime": 0.5,
+		"location": {
+			"x": 1899,
+			"y": 397
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418706#map=18/38.89006/-77.02745",
+		"pageTitle": "Way: ‪Holocaust Memorial Museum‬ (‪66418706‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064004491,
+		"microTime": 0.1,
+		"location": {
+			"x": 1421,
+			"y": 304
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064003934,
+		"microTime": 0.6,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪Holocaust Memorial Museum‬ (‪66418706‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.89118&lon=-77.02592",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "a",
+		"path": [
+			"a",
+			"li.query-result list-group-item selected",
+			"ul.query-results-list list-group list-group-flush",
+			"div.mx-n3",
+			"div#query-isin.query-results",
+			"div#sidebar_content",
+			"div#sidebar",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.89118&lon=-77.02592",
+		"pageTitle": "Query Features | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064007336,
+		"microTime": 0.7,
+		"location": {
+			"x": 224,
+			"y": 377
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064006779,
+		"microTime": 0.2,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Query Features | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/66418787",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787",
+		"pageTitle": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064007477,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"class": "Way",
+			"id": "66418787",
+			"name": "National Museum of Natural History",
+			"tags": {
+				"addr:city": "Washington",
+				"addr:postcode": "20560",
+				"addr:state": "DC",
+				"building": "yes",
+				"name": "National Museum of Natural History",
+				"name:de": "Nationalmuseum für Naturgeschichte",
+				"name:uk": "Національний музей природознавства",
+				"operator": "Smithsonian Institution",
+				"phone": "+1 202 633 1000",
+				"source:datetime": "2015-09-07T04:53:45.000Z",
+				"start_date": "1910",
+				"tourism": "museum",
+				"website": "http://www.mnh.si.edu/",
+				"wikipedia": "en:National Museum of Natural History"
+			}
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "visit"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787#map=18/38.89021/-77.03063",
+		"pageTitle": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064009770,
+		"microTime": 0.7,
+		"location": {
+			"x": 1138,
+			"y": 636
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787#map=18/38.89021/-77.03063",
+		"pageTitle": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064009832,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.89021",
+			"longitude": "-77.03063"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064009212,
+		"microTime": 0.5,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/66418787#map=18/38.89021/-77.03063",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "span.icon query",
+		"path": [
+			"span.icon query",
+			"a.control-button control-button-first control-button-last",
+			"div.control-query leaflet-control",
+			"div.leaflet-top leaflet-right",
+			"div.leaflet-control-container",
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787#map=18/38.89021/-77.03063",
+		"pageTitle": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064010960,
+		"microTime": 0.6,
+		"location": {
+			"x": 1905,
+			"y": 386
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787#map=18/38.89021/-77.03063",
+		"pageTitle": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064012131,
+		"microTime": 0.4,
+		"location": {
+			"x": 751,
+			"y": 362
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064011575,
+		"microTime": 0,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.89109&lon=-77.03269",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "a",
+		"path": [
+			"a",
+			"li.query-result list-group-item selected",
+			"ul.query-results-list list-group list-group-flush",
+			"div.mx-n3",
+			"div#query-isin.query-results",
+			"div#sidebar_content",
+			"div#sidebar",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.89109&lon=-77.03269",
+		"pageTitle": "Query Features | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064014563,
+		"microTime": 0,
+		"location": {
+			"x": 225,
+			"y": 381
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064014001,
+		"microTime": 0.5,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Query Features | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/219168369",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064014703,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"class": "Way",
+			"id": "219168369",
+			"name": "National Museum of African American History and Culture",
+			"tags": {
+				"construction": "building",
+				"landuse": "construction",
+				"name": "National Museum of African American History and Culture",
+				"name:de": "Nationalmuseum für Afrikanisch-Amerikanische Geschichte und Kultur",
+				"name:es": "Museo Nacional de Historia y Cultura Afroamericana",
+				"short_name": "NMAAHC",
+				"source:datetime": "2014-12-28T20:55:58.000Z",
+				"website": "http://nmaahc.si.edu/",
+				"wikipedia": "en:National Museum of African American History and Culture"
+			}
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "visit"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.89026/-77.02775",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064017831,
+		"microTime": 0.4,
+		"location": {
+			"x": 1202,
+			"y": 461
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.89026/-77.02775",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064017885,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.89026",
+			"longitude": "-77.02775"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064017266,
+		"microTime": 0.3,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.89026/-77.02775",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "a.control-button control-button-first control-button-last",
+		"path": [
+			"a.control-button control-button-first control-button-last",
+			"div.control-query leaflet-control",
+			"div.leaflet-top leaflet-right",
+			"div.leaflet-control-container",
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.89024/-77.02772",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064019565,
+		"microTime": 0.4,
+		"location": {
+			"x": 1888,
+			"y": 393
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064019006,
+		"microTime": 0.1,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.89024/-77.02772",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+		"path": [
+			"div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.89024/-77.02772",
+		"pageTitle": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064020608,
+		"microTime": 0.6,
+		"location": {
+			"x": 1473,
+			"y": 351
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064020048,
+		"microTime": 0,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of African American History and Culture‬ (‪219168369‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/query?lat=38.89116&lon=-77.02590",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": "a",
+		"path": [
+			"a",
+			"li.query-result list-group-item selected",
+			"ul.query-results-list list-group list-group-flush",
+			"div.mx-n3",
+			"div#query-isin.query-results",
+			"div#sidebar_content",
+			"div#sidebar",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.89116&lon=-77.02590",
+		"pageTitle": "Query Features | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064022931,
+		"microTime": 0.3,
+		"location": {
+			"x": 271,
+			"y": 380
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064022368,
+		"microTime": 0.3,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Query Features | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/way/66418787",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787",
+		"pageTitle": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064023103,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"class": "Way",
+			"id": "66418787",
+			"name": "National Museum of Natural History",
+			"tags": {
+				"addr:city": "Washington",
+				"addr:postcode": "20560",
+				"addr:state": "DC",
+				"building": "yes",
+				"name": "National Museum of Natural History",
+				"name:de": "Nationalmuseum für Naturgeschichte",
+				"name:uk": "Національний музей природознавства",
+				"operator": "Smithsonian Institution",
+				"phone": "+1 202 633 1000",
+				"source:datetime": "2015-09-07T04:53:45.000Z",
+				"start_date": "1910",
+				"tourism": "museum",
+				"website": "http://www.mnh.si.edu/",
+				"wikipedia": "en:National Museum of Natural History"
+			}
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "visit"
+	},
+	{
+		"target": "a.geolink d-block btn-close",
+		"path": [
+			"a.geolink d-block btn-close",
+			"div",
+			"div.d-flex w-100",
+			"div#sidebar_content",
+			"div#sidebar",
+			"div#content",
+			"body.map-layout",
+			"html",
+			"#document",
+			"Window"
+		],
+		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787",
+		"pageTitle": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064024644,
+		"microTime": 0.6,
+		"location": {
+			"x": 306,
+			"y": 126
+		},
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"type": "click",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"clicks": 1,
+			"ctrl": false,
+			"alt": false,
+			"shift": false,
+			"meta": false
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064024092,
+		"microTime": 0.7,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "Way: ‪National Museum of Natural History‬ (‪66418787‬) | MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/map#map=18/38.89024/-77.02678",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064024097,
+		"microTime": 0.7,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/map#map=18/38.89024/-77.02865",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064024108,
+		"microTime": 0.7,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/#map=18/38.89024/-77.02865",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.89024/-77.02865",
+		"pageTitle": "MapEdit",
+		"pageReferrer": "https://nome.vgihub.geointservices.io/welcome",
+		"browser": {
+			"browser": "chrome",
+			"version": "114.0.0"
+		},
+		"clientTime": 1688064024722,
+		"scrnRes": {
+			"width": 1920,
+			"height": 1089
+		},
+		"logType": "custom",
+		"userAction": true,
+		"details": {
+			"zoom": "18",
+			"latitude": "38.89024",
+			"longitude": "-77.02865"
+		},
+		"userId": "mdiep-nome",
+		"toolVersion": null,
+		"toolName": "test_app",
+		"useraleVersion": "2.3.0",
+		"sessionID": "session_1688051805062",
+		"type": "viewChange"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064024109,
+		"microTime": 0,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/#map=18/38.89024/-77.02865",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	},
+	{
+		"target": null,
+		"path": null,
+		"clientTime": 1688064024109,
+		"microTime": 0.4,
+		"location": null,
+		"type": "browser.tabs.onZoomChange",
+		"logType": "raw",
+		"userAction": true,
+		"details": {
+			"oldZoomFactor": 1,
+			"newZoomFactor": 1,
+			"active": true,
+			"audible": false,
+			"incognito": false,
+			"index": 1,
+			"muted": false,
+			"pinned": false,
+			"selected": true,
+			"tabId": 602194846,
+			"title": "MapEdit",
+			"url": "https://nome.vgihub.geointservices.io/#map=18/38.89024/-77.02865",
+			"windowId": 602194784
+		},
+		"userId": "nobody",
+		"toolVersion": null,
+		"toolName": null,
+		"useraleVersion": null,
+		"sessionID": "session_1688051805062"
+	}
+]
