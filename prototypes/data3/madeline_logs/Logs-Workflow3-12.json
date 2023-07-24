@@ -40,7 +40,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88831/-77.03125",
@@ -66,7 +66,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "viewChange"
 	},
 	{
@@ -97,7 +97,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -127,7 +127,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
@@ -170,7 +170,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/#map=18/38.88996/-77.03272",
@@ -196,7 +196,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "viewChange"
 	},
 	{
@@ -245,7 +245,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
@@ -288,7 +288,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -318,7 +318,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -348,7 +348,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/query?lat=38.88942&lon=-77.03519#map=18/38.88996/-77.03178",
@@ -374,7 +374,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "viewChange"
 	},
 	{
@@ -405,7 +405,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "a",
@@ -454,7 +454,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -484,7 +484,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/6063188",
@@ -516,7 +516,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "visit"
 	},
 	{
@@ -565,7 +565,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
@@ -608,7 +608,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -638,7 +638,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "a",
@@ -687,7 +687,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -717,7 +717,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369",
@@ -754,7 +754,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "visit"
 	},
 	{
@@ -795,7 +795,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#sidebar",
@@ -835,7 +835,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
@@ -878,7 +878,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.88782/-77.03076",
@@ -904,7 +904,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "viewChange"
 	},
 	{
@@ -935,7 +935,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "span.icon query",
@@ -983,7 +983,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
@@ -1026,7 +1026,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -1056,7 +1056,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#sidebar",
@@ -1096,7 +1096,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "a",
@@ -1145,7 +1145,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -1175,7 +1175,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418706",
@@ -1218,7 +1218,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "visit"
 	},
 	{
@@ -1259,7 +1259,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom",
@@ -1302,7 +1302,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418706#map=18/38.89049/-77.02749",
@@ -1328,7 +1328,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "viewChange"
 	},
 	{
@@ -1359,7 +1359,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "span.icon query",
@@ -1407,7 +1407,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
@@ -1450,7 +1450,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#sidebar",
@@ -1490,7 +1490,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -1520,7 +1520,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "a",
@@ -1569,7 +1569,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -1599,7 +1599,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787",
@@ -1641,7 +1641,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "visit"
 	},
 	{
@@ -1685,7 +1685,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -1715,7 +1715,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "span.icon query",
@@ -1763,7 +1763,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
@@ -1806,7 +1806,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -1836,7 +1836,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "a",
@@ -1885,7 +1885,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -1915,7 +1915,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369",
@@ -1952,7 +1952,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "visit"
 	},
 	{
@@ -1996,7 +1996,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -2026,7 +2026,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/219168369#map=18/38.89031/-77.02775",
@@ -2052,7 +2052,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "viewChange"
 	},
 	{
@@ -2101,7 +2101,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "div#map.leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom query-active",
@@ -2144,7 +2144,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -2174,7 +2174,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": "a",
@@ -2223,7 +2223,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"target": null,
@@ -2253,7 +2253,7 @@
 		"toolVersion": null,
 		"toolName": null,
 		"useraleVersion": null,
-		"sessionID": "session_1688051805062"
+		"sessionID": "session_1688051805073"
 	},
 	{
 		"pageUrl": "https://nome.vgihub.geointservices.io/way/66418787",
@@ -2295,7 +2295,7 @@
 		"toolVersion": null,
 		"toolName": "test_app",
 		"useraleVersion": "2.3.0",
-		"sessionID": "session_1688051805062",
+		"sessionID": "session_1688051805073",
 		"type": "visit"
 	}
 ]
