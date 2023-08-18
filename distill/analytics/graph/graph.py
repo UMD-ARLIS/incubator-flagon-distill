@@ -14,11 +14,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import itertools
-import json
 import collections
+
 import networkx as nx
-import plotly.graph_objects as go
+import plotly.graph_objects as go  # type: ignore
+
 
 def createDiGraph(nodes, edges, *, drop_recursions: bool = False):
     """
@@ -28,9 +28,9 @@ def createDiGraph(nodes, edges, *, drop_recursions: bool = False):
     :param drop_recursions: if True eliminates self:self pairs in edges
     :return: A NetworkX graph object
     """
-    G=nx.DiGraph()
+    G = nx.DiGraph()
     G.add_nodes_from(nodes)
-    if drop_recursions==True:
+    if drop_recursions:
         edges_filtered = []
         for row in edges:
             if row[0] != row[1]:
@@ -47,7 +47,8 @@ def sankey(edges_segmentN, node_labels=False):
     """
     Creates Sankey Graph from defined edge list and optional user-provided labels
     :param edges_segmentN: List of Tuples
-    :param node_labels: Optional Dictionary of Values; keys are originals, values are replacements
+    :param node_labels: Optional Dictionary of Values; keys are originals, values\
+        are replacements
     :return: A Sankey graph
     """
     # Remove self-to-self recursions
@@ -93,25 +94,30 @@ def sankey(edges_segmentN, node_labels=False):
     # If node labels is given as an argument, we replace nodes with node labels
     # If not, we use the original node names
     if node_labels:
-        fig = go.Figure(data=[go.Sankey(
-            node=dict(
-                label=[new_nodes[item].split("|")[0] for item in range(len(new_nodes))],
-            ),
-            link=dict(
-                source=sources,
-                target=targets,
-                value=values
-            ))])
+        fig = go.Figure(
+            data=[
+                go.Sankey(
+                    node=dict(
+                        label=[
+                            new_nodes[item].split("|")[0]
+                            for item in range(len(new_nodes))
+                        ],
+                    ),
+                    link=dict(source=sources, target=targets, value=values),
+                )
+            ]
+        )
     else:
-        fig = go.Figure(data=[go.Sankey(
-            node=dict(
-                label=[nodes[item].split("|")[0] for item in range(len(nodes))],
-            ),
-            link=dict(
-                source=sources,
-                target=targets,
-                value=values
-            ))])
+        fig = go.Figure(
+            data=[
+                go.Sankey(
+                    node=dict(
+                        label=[nodes[item].split("|")[0] for item in range(len(nodes))],
+                    ),
+                    link=dict(source=sources, target=targets, value=values),
+                )
+            ]
+        )
 
     fig.show()
 
@@ -119,10 +125,7 @@ def sankey(edges_segmentN, node_labels=False):
 
 
 #   TODO complete function (args--input edge-list, labels)
-def funnel(edges_segmentN,
-           user_specification,
-           node_labels=False):
-
+def funnel(edges_segmentN, user_specification, node_labels=False):
     """
     Creates Funnel Graph from defined edge list and optional user-provided labels
     :param edges_segmentN: List of Tuples
@@ -131,7 +134,7 @@ def funnel(edges_segmentN,
     :return: A Funnel graph
     """
 
-    ## Removing duplicates
+    # Removing duplicates
 
     edge_list_temp = []
     for row in edges_segmentN:
@@ -139,7 +142,7 @@ def funnel(edges_segmentN,
             edge_list_temp.append(row)
     edge_list = edge_list_temp
 
-    ## Convert from list of 2s to list of 1s
+    # Convert from list of 2s to list of 1s
 
     edgelist_list = []
     length = len(edge_list) - 1
@@ -154,21 +157,23 @@ def funnel(edges_segmentN,
 
     funnel_targets_temp = []
     for item in edgelist_list:
-        if item != None:
+        if item is not None:
             funnel_targets_temp.append(item)
     funnel_targets = funnel_targets_temp
 
-    ## Convert that list into a list of 3s
+    # Convert that list into a list of 3s
     edge_list = []
     for i in range(len(funnel_targets)):
         if i == (len(funnel_targets) - 2):
             break
         else:
-            edge_list.append((funnel_targets[i], funnel_targets[i + 1], funnel_targets[i + 2]))
+            edge_list.append(
+                (funnel_targets[i], funnel_targets[i + 1], funnel_targets[i + 2])
+            )
 
-    ## Convert the list of 3s to a counter
+    # Convert the list of 3s to a counter
 
-    edge_list_counter = collections.Counter(edge_list)
+    # edge_list_counter = collections.Counter(edge_list)
     first_rung = user_specification
     new_edge_list = []
     for i in edge_list:
@@ -198,7 +203,8 @@ def funnel(edges_segmentN,
     numbers = [counter1, counter2, counter3]
     edges = [first_rung, second_rung, third_rung]
 
-    # If node labels was given as an argument, replaces the targets with the provided names
+    # If node labels was given as an argument, replaces the targets
+    # with the provided names
     if node_labels:
         new_edges = []
         for edge in edges:
@@ -208,21 +214,23 @@ def funnel(edges_segmentN,
                 new_edges.append(edge)
         edges = new_edges
 
-
     # Plotting labels from the list with the values from the dictionary
-    data = dict(
-        number=numbers,
-        edge=edges)
+    # data = dict(number=numbers, edge=edges)
 
     # Plotting the figure
-    fig = go.Figure(go.Funnel(
-        y=edges,
-        x=numbers,
-        textposition="inside",
-        textinfo="value+percent initial",
-        opacity=0.65, marker={"color": ["deepskyblue", "lightsalmon", "tan"],
-                              "line": {"width": [2]}},
-        connector={"line": {"color": "lime", "dash": "dot", "width": 5}})
+    fig = go.Figure(
+        go.Funnel(
+            y=edges,
+            x=numbers,
+            textposition="inside",
+            textinfo="value+percent initial",
+            opacity=0.65,
+            marker={
+                "color": ["deepskyblue", "lightsalmon", "tan"],
+                "line": {"width": [2]},
+            },
+            connector={"line": {"color": "lime", "dash": "dot", "width": 5}},
+        )
     )
 
     fig.show()
