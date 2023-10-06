@@ -135,13 +135,13 @@ def funnel(edges, targets, node_labels=False, *, infer=True):
     return fig
 
 
-    def click_plot_ani(sorted_dict, img_location, gif_save_name = None):
+    def click_plot(sorted_dict, img_location, gif_save_name = None):
     """
     Displays a heatmap, overlaying clicks and mouseover events on top of an image
 
     :param sorted_dict: ADictionary of sorted logs
     :param img_location: location of the snapshot image
-    :param gif_save_name: the name to save the GIF as
+    :param gif_save_name: the name to save the GIF as - if no name provided, a GIF will not be generated
     """
         
     xy_values_clicks = []
@@ -191,6 +191,9 @@ def funnel(edges, targets, node_labels=False, *, infer=True):
         plt.title(gif_save_name)
         plt.imshow(img_resized)
 
-    ani = animation.FuncAnimation(plt.gcf(), update, frames=len(x_m), fargs=(x_m, y_m), repeat=False)
-    ani.save(gif_save_name+".gif", writer='imagemagick')
-    plt.show(ani)
+    if gif_save_name is not None:
+        ani = animation.FuncAnimation(plt.gcf(), update, frames=len(x_m), fargs=(x_m, y_m), repeat=False)
+        ani.save(gif_save_name+".gif", writer='imagemagick')
+        plt.show(ani)
+    else: 
+        plt.show(img_resized)
